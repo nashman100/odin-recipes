@@ -1,0 +1,36 @@
+h1 {
+   color: blue;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+   }
+
+h2{
+    color: green;
+    font-weight: 150;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+h4{
+    color: cornflowerblue;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+ul{
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+ol{
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.images{
+    height: auto ;
+    width: 600px;
+}
